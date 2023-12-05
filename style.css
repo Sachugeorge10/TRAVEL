@@ -1,0 +1,44 @@
+.title {
+  position: absolute;
+  top: 30%;
+  left: 60%;
+  color: whitesmoke;
+}
+.bgimage {
+  height: 500px;
+}
+.home {
+  position: relative;
+}
+.title:hover {
+  color: red;
+}
+.tips {
+  display: flex;
+  background-color: rgb(205, 232, 255);
+  justify-content: center;
+}
+.gettips{
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.tip{
+    width: 150px;
+    height: 40px;
+}
+.definition{
+  text-align: justify;
+}
+.beauty{
+  display: flex;
+}
+.about{
+  display: flex;
+}
+.para{
+  text-align: justify;
+}
+.aboutimage{
+  width: 400px;
+  height: 300px;
+}
